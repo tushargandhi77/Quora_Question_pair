@@ -55,7 +55,7 @@ This Streamlit app is designed to predict whether pairs of questions from the Qu
 1. Clone this repository:
 
 ```
-git clone https://github.com/your_username/quora-question-pair-classifier.git
+https://github.com/tushargandhi77/Quora_Question_pair.git
 ```
 
 2. Install the required dependencies:
