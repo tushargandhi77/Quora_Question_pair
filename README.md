@@ -71,7 +71,7 @@ streamlit run app.py
 ```
 
 ---
-##Screenshot
+## Screenshot
 ![Screenshot 2024-04-22 142952](https://github.com/tushargandhi77/Quora_Question_pair/assets/104029815/478e3672-cfb4-4990-b744-0db334fc65f2)
 ![Screenshot 2024-04-22 143022](https://github.com/tushargandhi77/Quora_Question_pair/assets/104029815/ebcc030e-ee39-45b8-9324-8cb71baef6f2)
 
